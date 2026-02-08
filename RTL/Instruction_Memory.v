@@ -5,10 +5,7 @@ module Instruction_Memory (
 
     reg [31:0] instr_mem [63:0];
 
-    /*initial begin
-        $readmemh("risc.hex", instr_mem);
-    end*/
-
     assign RD = instr_mem[A[7:2]];
     
+
 endmodule
