@@ -1,0 +1,308 @@
+%PDF-1.6
+%ˆ‰¸ﬂ
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/Outlines 7 0 R
+/PageMode /UseThumbs
+/ViewerPreferences <<
+/DisplayDocTitle true
+>>
+/Version /1.6
+>>
+endobj
+11 0 obj
+<<
+/Length 2360
+>>
+stream
+1 0 0 1 0 127.999 cm
+1 0 0 1 28.8 28.8 cm
+1.65779 0 0 -1.65779 0 0 cm
+1 0 0 1 0 -180 cm
+0 0 443 180 re
+W n
+/GS gs
+1 0 0 1 108 0 cm
+q
+1.000 1.000 1.000 rg
+/GSa0 gs
+-108 0 442 181 re
+f
+Q
+[] 0 d
+1 w
+0.000 0.000 0.000 RG
+/GSA0 gs
+0 50 m
+-7 57 l
+-21 57 l
+-21 43 l
+-7 43 l
+h S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 -25 50 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-14.664 -4.308 Td
+(clk) Tj
+ET
+Q
+0 70 m
+-7 77 l
+-21 77 l
+-21 63 l
+-7 63 l
+h S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 -25 70 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-19.332 -4.308 Td
+(WE) Tj
+ET
+Q
+3 w
+0 90 m
+-7 97 l
+-21 97 l
+-21 83 l
+-7 83 l
+h S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 -25 90 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-38.028 -4.308 Td
+(A[31:0]) Tj
+ET
+Q
+0 130 m
+-7 137 l
+-21 137 l
+-21 123 l
+-7 123 l
+h S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 -25 130 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-50.016 -4.308 Td
+(WD[31:0]) Tj
+ET
+Q
+q
+1.000 1.000 0.800 rg
+/GSa0 gs
+50 30 150 120 re
+f
+Q
+1 w
+50 30 150 120 re
+S
+50 53 m
+57 50 l
+50 47 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 125 28 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-39.006 2.484 Td
+(ram_mem_reg) Tj
+ET
+Q
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 125 152 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-28.002 -8.616 Td
+(RTL_RAM) Tj
+ET
+Q
+40 50 m
+50 50 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 59 50 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WCLK) Tj
+ET
+Q
+40 70 m
+50 70 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 52 70 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WE1) Tj
+ET
+Q
+3 w
+40 90 m
+50 90 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 52 90 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(RA1[5:0]) Tj
+ET
+Q
+210 90 m
+200 90 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 198 90 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-45.58 -3.59 Td
+(RO1[31:0]) Tj
+ET
+Q
+40 110 m
+50 110 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 52 110 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WA1[5:0]) Tj
+ET
+Q
+40 130 m
+50 130 l
+S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 52 130 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WD1[31:0]) Tj
+ET
+Q
+230 90 m
+230 83 l
+244 83 l
+251 90 l
+244 97 l
+230 97 l
+h S
+q
+0.000 0.000 0.000 rg
+/GSa0 gs
+1 0 0 1 255 90 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+0 -4.308 Td
+(RD[31:0]) Tj
+ET
+Q
+0.000 0.502 0.000 RG
+0 90 m
+20 90 l
+20 110 l
+40 110 l
+S
+20 90 m
+40 90 l
+S
+q
+0.000 0.502 0.000 rg
+/GSa0 gs
+17 87 7 7 re
+f
+Q
+210 90 m
+230 90 l
+S
+0 130 m
+40 130 l
+S
+1 w
+0.098 0.706 0.000 RG
+0 70 m
+40 70 l
+S
+0 50 m
+40 50 l
+S
+
+endstream
+endobj
+29 0 obj
+<<
+/Length 968
+/Type /ObjStm
+/N 26
+/Filter /FlateDecode
+/First 187
+>>
+stream
+xúïVkoõJ˝+Û±˝P≥ûWMø‚¶µ”GM•®äﬁõKcÉKö˛˚{L≤ñ©d0kfgÁÃŒpb$âú\2 è§à»'◊( ü˘íÔÇÕà3ÚA\P`Iawagå∏Gú3\|8¨ón!\\Ï√’ÛÉø~¿Hp∏DúÑqâ¿cá\8#Ñ8$`í~0πà'Bl!ΩèùõLØΩõ$:π_®MQ˛yOŒ∞÷ˇ%Ω´+U‚ˆ∫,Vu™`y™∂ö¶˘cñ+Uf˘#Õ6ü·4.U¢Õ°´ıs¶~ì?ô|¬åêåûŒ¯¿ïûKﬂ'óg†3õ^ûIØ;õ9≤0π¸#òô`„\2˘û>}jR˝≥UH&yT9_≥UEw®&£ò~"DQÁöxìl∫TöÓúÎ…97ÍEcﬂépQ¿”Y÷∫π5FúªJ6fˇFI•Züœj˝¨tñ&‰LÛ¥X∫Œ"I„bì‰Øñ6ˆÙEœñ⁄õúZl\a¸êÊ∫(ó€$UfÎzº4y&Z´2'g¢û≥T≈≥QõÎFÿ¸ÒÌ·óJ5Ñ¥ãÜ≥ÂØ∑ú˘>Œ¸ãπ.Ê‰∞Ç7ÎxÿÆ√À%˝õ¨+∏/IıÑπjÄgÀÑı∆51v√~›xÿˇVÎ5‰Çíde•çˆ>Ûƒ∫Èû_sÓÌb=ts-úd{"VUQó)ƒ‡u!rç˝
+=‘jï%£‚ÖÓåLÇHê8à%.ödYóe€;·n7™ƒπäe~?ÕB∆ùË¿∆(´À*ËåEiQûM—€ÕÚJ'h™™4`nx—(∫Ë*µCpÌ"∫˚EtÆåÍπg	eW&õ˚ç⁄‹óÍë‚õ˘}<\ÿ¿-x”√S*‰‰yπíY‘wl˜Ä∂E©OÊ‰€úõì0ç≠û_€qoßîÂ€ZÀäKÛsíE$=a≥Úl®‡*]?ùàÂJ`D-VËı`µ˝˛ré0éO.idë€%ïúÕSàCÏ·â,ﬁBx©	d"≈^ECâ"≈*j}ñ∫V¿¬ø`µ#ò˜®fr«ÕÀÖÁˇ∂èbÆNn±7L‹ﬁ∂ÿ´lOﬂﬂNènsêîQ”Óf}„∂”∆ƒÌmàìP‘†¢•≠`œdAGuæZü‹¬/"ÏÎÖ>˘üè'B¯∆˙õ€RÏıXœ,9è'GkÛW‚´“ÉÓÕzà“RÒm»ûIy~{4§yZbß	±Øâ=»Wbˇ,ÂŒ
+endstream
+endobj
+30 0 obj
+<<
+/Length 69
+/Info 1 0 R
+/Root 2 0 R
+/ID [<CABE283547BF7F3C03B89EBBB77AD29D17B812CDC146EBDC7CF7A164B837B0AA> <CABE283547BF7F3C03B89EBBB77AD29D17B812CDC146EBDC7CF7A164B837B0AA>]
+/Type /XRef
+/Size 31
+/Index [0 30]
+/W [1 2 1]
+/Filter /FlateDecode
+>>
+stream
+xú 7Ä —˜1!s·Ê›®≈=”å§œÈë)ä*‘h–¢É7ΩÂÈ0`ƒÑ2Vlÿq‡ƒÖ€B“êq:
+endstream
+endobj
+startxref
+3651
+%%EOF
